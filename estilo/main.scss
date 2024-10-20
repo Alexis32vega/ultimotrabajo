@@ -1,0 +1,11 @@
+@import 'variables';
+@import 'mixins';
+@import 'extends';
+
+body {
+    font-family: $font-stack;
+    background-color: $background-color;
+    color: $text-color;
+}
+
+// Aquí puedes añadir más estilos personalizados
